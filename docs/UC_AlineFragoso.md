@@ -32,3 +32,8 @@ Permitir que o usuário acesse o sistema.
 
 ### RN Relacionadas
 - (inserir RN aqui)
+
+- ## UC02 — 
+### Ator Principal
+
+
